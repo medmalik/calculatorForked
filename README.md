@@ -1,2 +1,2 @@
 # calculator
-this is a c programme to calc two integers
+this is a c programme to calc digits!!!!!!
